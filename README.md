@@ -1,4 +1,6 @@
-# Setup Instructions for Local server
+# Setup Instructions for Local React server
+
+Please ensure you are not running any other virtual environments via Vagrant, Docker, etc. as these may interfer with this test server
 
 On your command line `cd` to the directory you wish to install the app in
 
