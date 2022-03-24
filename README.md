@@ -1,7 +1,11 @@
 # Setup Instructions for Local React server
 
+### Prerequisites
+Node.js 12.22.0 or later
+
 Please ensure you are not running any other virtual environments via Vagrant, Docker, etc. as these may interfer with this test server
 
+### Steps
 On your command line `cd` to the directory you wish to install the app in
 
 Run this one liner to clone repo and start server
